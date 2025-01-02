@@ -1,6 +1,6 @@
 # Personal Finance Dashboard
 
-A modern **Personal Finance Dashboard** built using **React.js**, designed to help users manage their finances effectively with a clean, dark-themed UI.
+A modern **Personal Banking Dashboard** built using **React.js**, designed to help users manage their finances effectively with a clean, dark-themed UI.
 
 ![Dashboard Screenshot](./Screenshot.png)
 
@@ -34,5 +34,5 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ARMANANS1218/personal-finance-dashboard.git
+   git clone  https://github.com/ARMANANS1218/Banking-Dashboard-react-pro
    cd personal-finance-dashboard
