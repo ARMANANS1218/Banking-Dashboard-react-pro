@@ -1,4 +1,4 @@
-# Personal Finance Dashboard
+# Personal Banking Dashboard
 
 A modern **Personal Banking Dashboard** built using **React.js**, designed to help users manage their finances effectively with a clean, dark-themed UI.
 
